@@ -1,6 +1,7 @@
 trigger:
 - '*'
 
+# inserting comment
 pool:
   vmImage: ubuntu-latest
 
